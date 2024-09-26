@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I am currently studying software engineering.
+I am currently working at Can Tho University.
 <!--
 **Ma-Thanh-Thong/Ma-Thanh-Thong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
